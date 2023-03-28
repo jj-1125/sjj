@@ -24,7 +24,7 @@ img{max-width: 100%;}
   }
   .bg-dark {
     --bs-bg-opacity: 1;
-    background-color: rgba(var(--bs-dark-rgb),var(--bs-bg-opacity))!important;
+    background-color:#eeffa3 !important;
     }
     .fw-normal {
       font-weight: 400!important;
